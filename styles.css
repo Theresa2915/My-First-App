@@ -32,7 +32,8 @@ h2 {
 .units {
     position: relative;
     top: -25px;
-    margin: -15px;
+    margin: -8px;
+    text-decoration: none;
 }
 .weatherApp {
     border: 2px solid #dadada;
